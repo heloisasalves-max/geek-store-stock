@@ -1,0 +1,2 @@
+ # Geek Store
+Esse site foi solicitado por Pedro Júnior Henrique dos Santos, com o objetivo de criar um estoque para a loja de action figures. O sistema deve permitir cadastro de produtos coletando os nomes, franquia, preço e quantidade. E por fim, o sistema deve reajustar automaticamente o preço do produto, aplicando um aumento de 10% sobre o valor original, quando a quantidade em estoque for reduzida a exatamente 1 unidade.
